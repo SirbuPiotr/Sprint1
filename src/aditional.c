@@ -1,4 +1,0 @@
-funtion(){
-int a;
-a++;
-}
