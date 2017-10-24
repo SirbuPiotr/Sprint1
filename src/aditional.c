@@ -1,0 +1,4 @@
+funtion(){
+int a;
+a++;
+}
